@@ -23,3 +23,9 @@ Building an AR SaaS, AR filters or freelancing means that you'll be your own bos
 
 # The XR spectrum
 Extended reality or XR is the term used to describe all the other technologies that we can use to combine the physical and digital worlds. XR can be thought as an spectrum or an continuum.
+
+AR is the oldest technology in the XR family and it has been around for quite a while now. It's easy to access and doesn't need any special hardware and is considered the baseline on the XR spectrum. AR is most commonly used for digital filters that allow you to add special and life-like effects on top of your photos and videos.
+
+Augmented virtuality (AV) is also a technology that falls into the XR spectrum and is similar to AR but is lesser known. The background filters that you and other people use to change your surrounding background online video calls and conferences are examples of AV.
+
+> Augmented reality brings things from the digital world to the physical and Augmented virtuality brings things from the real world to the digital one.
